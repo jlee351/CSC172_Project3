@@ -7,6 +7,10 @@
     destruction_example_1.txt, destruction_example_2.txt:
     given text input file; contains numbers (nodes) for the program
 
+
+
+
+
     class Node:
     Node class for StopContagion.java. Has String value, and a ArrayList of nodes. Includes setter and getter methods for each parameter.
 
